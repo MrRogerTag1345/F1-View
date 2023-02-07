@@ -16,6 +16,7 @@ This project is to determine driver and team information, during a live race. Th
 2. Open CV Library (Computer Vision) (Python)
 3. Requests Library (API Handling) (Python Flask)
 4. Flask Framework (React/HTML & CSS ) (Python Flask)
+5. Languages: Python, React/HTML & CSS
 
 ## Learning Requirements:
 - Python Flask
@@ -26,3 +27,6 @@ This project is to determine driver and team information, during a live race. Th
 - API
   - Formula 1 API
 
+
+
+More Information will be updated as project moves forward.
