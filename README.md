@@ -7,9 +7,8 @@ This project is to determine driver and team information, during a live race. Th
 ---
 
 ## Resources:
--[F1 API](https://www.postman.com/maintenance-astronomer-29796265/workspace/f1-api/documentation/19328871-63c4a82c-ae84-4a24-a58b-bd8a408b1c4e)
--[AI and Machine Learning for Coders]
-
+- [F1 API](https://www.postman.com/maintenance-astronomer-29796265/workspace/f1-api/documentation/19328871-63c4a82c-ae84-4a24-a58b-bd8a408b1c4e)
+- [AI and Machine Learning for Coders | Book]
 
 
 ## Tech requirements:
