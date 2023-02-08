@@ -2,7 +2,7 @@
 This project is to determine driver and team information, during a live race. The goal is to create a overlay/bounding box on the race cars, as the vehical is in the camera frame, and present the watcher with the respective drive and team information.
 
 ## Season of Focus: 2021
-## Key Race as Testing: 2021 Monza Grand Prix
+## Focus Race for Testing: 2021 Monza Grand Prix
 
 ---
 
